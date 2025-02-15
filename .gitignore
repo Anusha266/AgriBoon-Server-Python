@@ -1,0 +1,18 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# SQLite database
+db.sqlite3
+
+# Django settings
+*.env
+# Log files
+*.log
+
+# Static files and media
+/static/
+media/
+
+
+
