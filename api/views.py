@@ -14,7 +14,6 @@ from torchvision import transforms
 from datetime import datetime
 import torch.nn as nn
 import torchvision.models as models
-import openai
 
 quality_mapping = {'low': 0.2, 'medium': 0.50, 'high': 1}
 
