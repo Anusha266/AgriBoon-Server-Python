@@ -13,6 +13,7 @@ db.sqlite3
 # Static files and media
 /static/
 media/
+venv/
 
-
+.gitignore
 
